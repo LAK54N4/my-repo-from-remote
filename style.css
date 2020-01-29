@@ -11,7 +11,7 @@ body {
     border-radius: 6px;
  }
   
- #profile-image {
+ #profile-container {
     width: 100%;
     height: auto;
  }
